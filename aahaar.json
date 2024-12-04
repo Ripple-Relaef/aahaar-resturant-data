@@ -246,11 +246,11 @@
         },
         "Fried Rice": {
             "Fried Rice Veg": {
-                "price": "70-40",
+                "price": "70/- 40",
                 "description": "Rice stir-fried with mixed vegetables."
             },
             "Fried Rice Paneer": {
-                "price": "90-50",
+                "price": "90/- 50",
                 "description": "Fried rice with paneer cubes."
             },
             "Schewan Fried Rice": {
