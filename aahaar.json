@@ -72,38 +72,38 @@
                 "description": "Creamy noodles topped with paneer."
             }
         },
-"Hot Dogs": {
-    "Aloo Tikki Hot Dog": {
-      "price": "30",
-      "description": "A delicious hot dog filled with spicy aloo tikki."
-    },
-    "Paneer Hot Dog": {
-      "price": "40",
-      "description": "A mouthwatering hot dog stuffed with flavorful paneer."
-    }
-  },
-  "Kulchas": {
-    "Kaladi Kulcha": {
-      "price": "60",
-      "description": "A traditional kulcha stuffed with kaladi, a unique delicacy from Jammu."
-    }
-  },
-  "Bhajis": {
-    "Pau Bhaji": {
-      "price": "80",
-      "description": "A popular street food dish of spiced mixed vegetable mash served with buttery pav."
-    }
-  },
-  "Chole Items": {
-    "Cholay Bhatura": {
-      "price": "60",
-      "description": "A classic North Indian dish of spicy chickpeas served with deep-fried fluffy bhaturas."
-    },
-    "Puri Channa": {
-      "price": "60",
-      "description": "A hearty meal of spiced chickpeas served with crispy puris."
-    }
-  },
+        "Hot Dogs": {
+            "Aloo Tikki Hot Dog": {
+                "price": "30",
+                "description": "A delicious hot dog filled with spicy aloo tikki."
+            },
+            "Paneer Hot Dog": {
+                "price": "40",
+                "description": "A mouthwatering hot dog stuffed with flavorful paneer."
+            }
+        },
+        "Kulchas": {
+            "Kaladi Kulcha": {
+                "price": "60",
+                "description": "A traditional kulcha stuffed with kaladi, a unique delicacy from Jammu."
+            }
+        },
+        "Bhajis": {
+            "Pau Bhaji": {
+                "price": "80",
+                "description": "A popular street food dish of spiced mixed vegetable mash served with buttery pav."
+            }
+        },
+        "Chole Items": {
+            "Cholay Bhatura": {
+                "price": "60",
+                "description": "A classic North Indian dish of spicy chickpeas served with deep-fried fluffy bhaturas."
+            },
+            "Puri Channa": {
+                "price": "60",
+                "description": "A hearty meal of spiced chickpeas served with crispy puris."
+            }
+        },
         "Chowmein": {
             "Veg Chowmein": {
                 "price": "70",
