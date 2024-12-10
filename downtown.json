@@ -1,0 +1,222 @@
+{
+  "menu": [
+    {
+      "category": "Paneer Special",
+      "foodItems": [
+        { "name": "Paneer Momos", "description": "", "price": 80, "veg": true },
+        { "name": "Paneer Spring Roll", "description": "", "price": 100, "veg": true },
+        { "name": "Paneer Noodles", "description": "", "price": 100, "veg": true },
+        { "name": "Paneer Sandwich", "description": "", "price": 100, "veg": true },
+        { "name": "Paneer Wrap", "description": "", "price": 70, "veg": true },
+        { "name": "Paneer Burger", "description": "", "price": 60, "veg": true },
+        { "name": "Paneer Fried Rice", "description": "", "price": 100, "veg": true },
+        { "name": "Chilly Paneer Momos", "description": "", "price": 120, "veg": true },
+        { "name": "Paneer Tikka", "description": "", "price": 120, "veg": true },
+        { "name": "Paneer Malai Tikka", "description": "", "price": 120, "veg": true },
+        { "name": "Paneer Kurkure Momos", "description": "", "price": 120, "veg": true },
+        { "name": "Paneer Malai Momos", "description": "", "price": 140, "veg": true },
+        { "name": "Paneer Do Pyaza", "description": "", "price": 120, "veg": true },
+        { "name": "Paneer Makhni Momos", "description": "", "price": 120, "veg": true }
+      ]
+    },
+    {
+      "category": "Momos",
+      "foodItems": [
+        { "name": "Fried Momos", "description": "", "price": 60, "veg": true },
+        { "name": "Steam Momos", "description": "", "price": 60, "veg": true },
+        { "name": "Chilly Momos", "description": "", "price": 100, "veg": true },
+        { "name": "Kurkure Momos", "description": "", "price": 100, "veg": true },
+        { "name": "Malai Momos", "description": "", "price": 100, "veg": true },
+        { "name": "Tandoori Momos", "description": "", "price": 120, "veg": true },
+        { "name": "Cheese Loaded Momos", "description": "", "price": 100, "veg": true },
+        { "name": "Makhni Momos", "description": "", "price": 100, "veg": true }
+      ]
+    },
+    {
+      "category": "Spring Rolls",
+      "foodItems": [
+        { "name": "Veg Spring Roll", "description": "", "price": 70, "veg": true },
+        { "name": "Paneer Spring Roll", "description": "", "price": 100, "veg": true }
+      ]
+    },
+    {
+      "category": "Sandwich",
+      "foodItems": [
+        { "name": "Veg Sandwich", "description": "", "price": 80, "veg": true },
+        { "name": "Paneer Sandwich", "description": "", "price": 100, "veg": true },
+        { "name": "Paneer Cheese Sandwich", "description": "", "price": 120, "veg": true }
+      ]
+    },
+    {
+      "category": "Burger",
+      "foodItems": [
+        { "name": "Veg Burger", "description": "", "price": 40, "veg": true },
+        { "name": "Paneer Burger", "description": "", "price": 50, "veg": true },
+        { "name": "Cheese Slice Burger", "description": "", "price": 60, "veg": true }
+      ]
+    },
+    {
+      "category": "Wrap",
+      "foodItems": [
+        { "name": "Veg Wrap", "description": "", "price": 50, "veg": true },
+        { "name": "Paneer Wrap", "description": "", "price": 70, "veg": true },
+        { "name": "Cheese Wrap", "description": "", "price": 100, "veg": true }
+      ]
+    },
+    {
+      "category": "Chinese",
+      "foodItems": [
+        { "name": "Manchurian Dry", "description": "", "price": 140, "veg": true },
+        { "name": "Manchurian Gravy", "description": "", "price": 140, "veg": true },
+        { "name": "Chilly Paneer", "description": "", "price": 150, "veg": true },
+        { "name": "Chilly Champ", "description": "", "price": 120, "veg": true },
+        { "name": "Chilly Potato", "description": "", "price": 120, "veg": true }
+      ]
+    },
+    {
+      "category": "Rice",
+      "foodItems": [
+        { "name": "Veg Fried Rice", "description": "", "price": 70, "veg": true },
+        { "name": "Paneer Fried Rice", "description": "", "price": 100, "veg": true },
+        { "name": "Shezwan Rice", "description": "", "price": 100, "veg": true }
+      ]
+    },
+    {
+      "category": "Dosa",
+      "foodItems": [
+        { "name": "Plain Dosa", "description": "", "price": 60, "veg": true },
+        { "name": "Masala Dosa", "description": "", "price": 70, "veg": true },
+        { "name": "Butter Masala Dosa", "description": "", "price": 80, "veg": true },
+        { "name": "Onion Masala", "description": "", "price": 80, "veg": true },
+        { "name": "Paneer Dosa", "description": "", "price": 100, "veg": true }
+      ]
+    },
+    {
+      "category": "Pizza Menu",
+      "foodItems": [
+        {
+          "name": "Downtown Special",
+          "description": "",
+          "options": [
+            { "type": "Regular", "price": 199 },
+            { "type": "Medium", "price": 349 },
+            { "type": "Large", "price": 599 }
+          ],
+          "veg": true
+        },
+        {
+          "name": "Garden Special",
+          "description": "Mushroom, capsicum, onion, tomato",
+          "options": [
+            { "type": "Regular", "price": 149 },
+            { "type": "Medium", "price": 249 },
+            { "type": "Large", "price": 449 }
+          ],
+          "veg": true
+        },
+        {
+          "name": "Farm Villa",
+          "description": "Paneer, onion, tomato, capsicum, red paprika",
+          "options": [
+            { "type": "Regular", "price": 179 },
+            { "type": "Medium", "price": 279 },
+            { "type": "Large", "price": 499 }
+          ],
+          "veg": true
+        },
+        {
+          "name": "Baby Lover",
+          "description": "Sweet corn, olives, capsicum, onion",
+          "options": [
+            { "type": "Regular", "price": 159 },
+            { "type": "Medium", "price": 259 },
+            { "type": "Large", "price": 499 }
+          ],
+          "veg": true
+        },
+        {
+          "name": "Hot Passion",
+          "description": "Tomato, mushroom, red paprika, jalapeno, olives",
+          "options": [
+            { "type": "Regular", "price": 179 },
+            { "type": "Medium", "price": 279 },
+            { "type": "Large", "price": 499 }
+          ],
+          "veg": true
+        },
+        {
+          "name": "Onion Corn Pizza",
+          "description": "",
+          "options": [
+            { "type": "Regular", "price": 149 },
+            { "type": "Medium", "price": 249 },
+            { "type": "Large", "price": 399 }
+          ],
+          "veg": true
+        },
+        {
+          "name": "Paneer Pizza",
+          "description": "",
+          "options": [
+            { "type": "Regular", "price": 159 },
+            { "type": "Medium", "price": 259 },
+            { "type": "Large", "price": 499 }
+          ],
+          "veg": true
+        },
+        {
+          "name": "Margherita Pizza",
+          "description": "",
+          "options": [
+            { "type": "Regular", "price": 129 },
+            { "type": "Medium", "price": 229 },
+            { "type": "Large", "price": 349 }
+          ],
+          "veg": true
+        },
+        {
+          "name": "Mushroom N Olives",
+          "description": "",
+          "options": [
+            { "type": "Regular", "price": 149 },
+            { "type": "Medium", "price": 249 },
+            { "type": "Large", "price": 449 }
+          ],
+          "veg": true
+        }
+      ]
+    },
+    {
+      "category": "Shakes/Mocktails/Beverages",
+      "foodItems": [
+        { "name": "Oreo Shake", "description": "", "price": 80, "veg": true },
+        { "name": "Kitkat Shake", "description": "", "price": 80, "veg": true },
+        { "name": "Butter Scotch Shake", "description": "", "price": 60, "veg": true },
+        { "name": "Strawberry Shake", "description": "", "price": 60, "veg": true },
+        { "name": "Vanilla Shake", "description": "", "price": 60, "veg": true },
+        { "name": "Blueberry Shake", "description": "", "price": 60, "veg": true },
+        { "name": "Black Current Shake", "description": "", "price": 60, "veg": true },
+        { "name": "Banana Shake", "description": "", "price": 60, "veg": true },
+        { "name": "Mango Shake", "description": "", "price": 60, "veg": true },
+        { "name": "Papaya Shake", "description": "", "price": 60, "veg": true },
+        { "name": "Cold Coffee", "description": "", "price": 50, "veg": true },
+        { "name": "Hot Coffee", "description": "", "price": 60, "veg": true },
+        { "name": "Mint Mojito", "description": "", "price": 60, "veg": true },
+        { "name": "Green Apple Mojito", "description": "", "price": 60, "veg": true },
+        { "name": "Blue Curraco Mojito", "description": "", "price": 60, "veg": true },
+        { "name": "Virgin Mojito", "description": "", "price": 60, "veg": true },
+        { "name": "Watermelon Mojito", "description": "", "price": 60, "veg": true }
+      ]
+    },
+    {
+      "category": "Special Combos",
+      "foodItems": [
+        { "name": "Burger + French Fries + Coke", "description": "", "price": 79, "veg": true },
+        { "name": "Fried Rice + Chilly Paneer", "description": "", "price": 159, "veg": true },
+        { "name": "Pasta + Pizza + Coke", "description": "", "price": 249, "veg": true },
+        { "name": "Sandwich + Burger + Coke", "description": "", "price": 139, "veg": true },
+        { "name": "Kurkure Momos + Spring Roll + Cold Drink", "description": "", "price": 139, "veg": true }
+      ]
+    }
+  ]
+}
