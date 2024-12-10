@@ -3,92 +3,92 @@
     {
       "category": "Paneer Special",
       "foodItems": [
-        { "name": "Paneer Momos", "description": "", "price": 80, "veg": true },
-        { "name": "Paneer Spring Roll", "description": "", "price": 100, "veg": true },
-        { "name": "Paneer Noodles", "description": "", "price": 100, "veg": true },
-        { "name": "Paneer Sandwich", "description": "", "price": 100, "veg": true },
-        { "name": "Paneer Wrap", "description": "", "price": 70, "veg": true },
-        { "name": "Paneer Burger", "description": "", "price": 60, "veg": true },
-        { "name": "Paneer Fried Rice", "description": "", "price": 100, "veg": true },
-        { "name": "Chilly Paneer Momos", "description": "", "price": 120, "veg": true },
-        { "name": "Paneer Tikka", "description": "", "price": 120, "veg": true },
-        { "name": "Paneer Malai Tikka", "description": "", "price": 120, "veg": true },
-        { "name": "Paneer Kurkure Momos", "description": "", "price": 120, "veg": true },
-        { "name": "Paneer Malai Momos", "description": "", "price": 140, "veg": true },
-        { "name": "Paneer Do Pyaza", "description": "", "price": 120, "veg": true },
-        { "name": "Paneer Makhni Momos", "description": "", "price": 120, "veg": true }
+        { "name": "Paneer Momos", "description": "Soft dumplings filled with spiced paneer, steamed or fried to perfection.", "price": 80, "veg": true },
+        { "name": "Paneer Spring Roll", "description": "Crispy spring rolls stuffed with deliciously seasoned paneer and vegetables.", "price": 100, "veg": true },
+        { "name": "Paneer Noodles", "description": "Stir-fried noodles with tender paneer cubes and vibrant vegetables.", "price": 100, "veg": true },
+        { "name": "Paneer Sandwich", "description": "Grilled sandwich layered with paneer slices, vegetables, and flavorful sauces.", "price": 100, "veg": true },
+        { "name": "Paneer Wrap", "description": "Soft wrap loaded with paneer tikka, fresh veggies, and tangy sauces.", "price": 70, "veg": true },
+        { "name": "Paneer Burger", "description": "A juicy burger with a crispy paneer patty, lettuce, and special sauces.", "price": 60, "veg": true },
+        { "name": "Paneer Fried Rice", "description": "Fragrant fried rice mixed with cubes of paneer and colorful vegetables.", "price": 100, "veg": true },
+        { "name": "Chilly Paneer Momos", "description": "Paneer-filled momos tossed in a spicy and tangy chilly sauce.", "price": 120, "veg": true },
+        { "name": "Paneer Tikka", "description": "Succulent paneer cubes marinated in spices and grilled to perfection.", "price": 120, "veg": true },
+        { "name": "Paneer Malai Tikka", "description": "Creamy, rich paneer skewers infused with mild spices and grilled.", "price": 120, "veg": true },
+        { "name": "Paneer Kurkure Momos", "description": "Crunchy momos with a paneer filling, coated in breadcrumbs and deep-fried.", "price": 120, "veg": true },
+        { "name": "Paneer Malai Momos", "description": "Delicate paneer momos served with a rich, creamy malai sauce.", "price": 140, "veg": true },
+        { "name": "Paneer Do Pyaza", "description": "Paneer cooked with onions, capsicum, and spices in a flavorful gravy.", "price": 120, "veg": true },
+        { "name": "Paneer Makhni Momos", "description": "Paneer momos drenched in a buttery, mildly spiced makhni gravy.", "price": 120, "veg": true }
       ]
     },
     {
       "category": "Momos",
       "foodItems": [
-        { "name": "Fried Momos", "description": "", "price": 60, "veg": true },
-        { "name": "Steam Momos", "description": "", "price": 60, "veg": true },
-        { "name": "Chilly Momos", "description": "", "price": 100, "veg": true },
-        { "name": "Kurkure Momos", "description": "", "price": 100, "veg": true },
-        { "name": "Malai Momos", "description": "", "price": 100, "veg": true },
-        { "name": "Tandoori Momos", "description": "", "price": 120, "veg": true },
-        { "name": "Cheese Loaded Momos", "description": "", "price": 100, "veg": true },
-        { "name": "Makhni Momos", "description": "", "price": 100, "veg": true }
+        { "name": "Fried Momos", "description": "Crispy and golden-brown dumplings filled with savory stuffing.", "price": 60, "veg": true },
+        { "name": "Steam Momos", "description": "Soft and juicy steamed dumplings with a delectable vegetable filling.", "price": 60, "veg": true },
+        { "name": "Chilly Momos", "description": "Momos tossed in a spicy and tangy chilly sauce.", "price": 100, "veg": true },
+        { "name": "Kurkure Momos", "description": "Crunchy momos with a crispy coating, served hot and fresh.", "price": 100, "veg": true },
+        { "name": "Malai Momos", "description": "Momos served with a creamy and rich malai sauce.", "price": 100, "veg": true },
+        { "name": "Tandoori Momos", "description": "Momos marinated in tandoori spices and grilled to perfection.", "price": 120, "veg": true },
+        { "name": "Cheese Loaded Momos", "description": "Cheesy delight with a vegetable filling and melted cheese topping.", "price": 100, "veg": true },
+        { "name": "Makhni Momos", "description": "Momos drenched in a buttery, mildly spiced makhni sauce.", "price": 100, "veg": true }
       ]
     },
     {
       "category": "Spring Rolls",
       "foodItems": [
-        { "name": "Veg Spring Roll", "description": "", "price": 70, "veg": true },
-        { "name": "Paneer Spring Roll", "description": "", "price": 100, "veg": true }
+        { "name": "Veg Spring Roll", "description": "Crispy rolls stuffed with a medley of seasoned vegetables.", "price": 70, "veg": true },
+        { "name": "Paneer Spring Roll", "description": "Crunchy rolls filled with spiced paneer and vegetables.", "price": 100, "veg": true }
       ]
     },
     {
       "category": "Sandwich",
       "foodItems": [
-        { "name": "Veg Sandwich", "description": "", "price": 80, "veg": true },
-        { "name": "Paneer Sandwich", "description": "", "price": 100, "veg": true },
-        { "name": "Paneer Cheese Sandwich", "description": "", "price": 120, "veg": true }
+        { "name": "Veg Sandwich", "description": "Classic sandwich filled with fresh vegetables and tangy sauces.", "price": 80, "veg": true },
+        { "name": "Paneer Sandwich", "description": "Grilled sandwich layered with paneer, vegetables, and flavorful spreads.", "price": 100, "veg": true },
+        { "name": "Paneer Cheese Sandwich", "description": "A delightful combination of paneer and cheese in a grilled sandwich.", "price": 120, "veg": true }
       ]
     },
     {
       "category": "Burger",
       "foodItems": [
-        { "name": "Veg Burger", "description": "", "price": 40, "veg": true },
-        { "name": "Paneer Burger", "description": "", "price": 50, "veg": true },
-        { "name": "Cheese Slice Burger", "description": "", "price": 60, "veg": true }
+        { "name": "Veg Burger", "description": "Crispy vegetable patty served in a bun with fresh lettuce and sauces.", "price": 40, "veg": true },
+        { "name": "Paneer Burger", "description": "A delectable burger with a paneer patty, lettuce, and special sauces.", "price": 50, "veg": true },
+        { "name": "Cheese Slice Burger", "description": "Juicy burger topped with a slice of melted cheese.", "price": 60, "veg": true }
       ]
     },
     {
       "category": "Wrap",
       "foodItems": [
-        { "name": "Veg Wrap", "description": "", "price": 50, "veg": true },
-        { "name": "Paneer Wrap", "description": "", "price": 70, "veg": true },
-        { "name": "Cheese Wrap", "description": "", "price": 100, "veg": true }
+        { "name": "Veg Wrap", "description": "A soft wrap filled with seasoned vegetables and tasty sauces.", "price": 50, "veg": true },
+        { "name": "Paneer Wrap", "description": "A delicious wrap filled with paneer tikka and tangy sauces.", "price": 70, "veg": true },
+        { "name": "Cheese Wrap", "description": "Wrap loaded with melted cheese, vegetables, and flavorful sauces.", "price": 100, "veg": true }
       ]
     },
     {
       "category": "Chinese",
       "foodItems": [
-        { "name": "Manchurian Dry", "description": "", "price": 140, "veg": true },
-        { "name": "Manchurian Gravy", "description": "", "price": 140, "veg": true },
-        { "name": "Chilly Paneer", "description": "", "price": 150, "veg": true },
-        { "name": "Chilly Champ", "description": "", "price": 120, "veg": true },
-        { "name": "Chilly Potato", "description": "", "price": 120, "veg": true }
+        { "name": "Manchurian Dry", "description": "Crispy vegetable balls in a spicy and tangy Manchurian sauce.", "price": 140, "veg": true },
+        { "name": "Manchurian Gravy", "description": "Vegetable balls served in a rich and flavorful Manchurian gravy.", "price": 140, "veg": true },
+        { "name": "Chilly Paneer", "description": "Paneer cubes stir-fried with onions, peppers, and a spicy chilly sauce.", "price": 150, "veg": true },
+        { "name": "Chilly Champ", "description": "Soy-based chunks stir-fried with vegetables in a spicy chilly sauce.", "price": 120, "veg": true },
+        { "name": "Chilly Potato", "description": "Crispy potato strips tossed in a spicy and tangy chilly sauce.", "price": 120, "veg": true }
       ]
     },
     {
       "category": "Rice",
       "foodItems": [
-        { "name": "Veg Fried Rice", "description": "", "price": 70, "veg": true },
-        { "name": "Paneer Fried Rice", "description": "", "price": 100, "veg": true },
-        { "name": "Shezwan Rice", "description": "", "price": 100, "veg": true }
+        { "name": "Veg Fried Rice", "description": "Fragrant rice stir-fried with vegetables and soy sauce.", "price": 70, "veg": true },
+        { "name": "Paneer Fried Rice", "description": "Fried rice mixed with paneer cubes and fresh vegetables.", "price": 100, "veg": true },
+        { "name": "Shezwan Rice", "description": "Spicy rice cooked with vegetables in a fiery Schezwan sauce.", "price": 100, "veg": true }
       ]
     },
     {
       "category": "Dosa",
       "foodItems": [
-        { "name": "Plain Dosa", "description": "", "price": 60, "veg": true },
-        { "name": "Masala Dosa", "description": "", "price": 70, "veg": true },
-        { "name": "Butter Masala Dosa", "description": "", "price": 80, "veg": true },
-        { "name": "Onion Masala", "description": "", "price": 80, "veg": true },
-        { "name": "Paneer Dosa", "description": "", "price": 100, "veg": true }
+        { "name": "Plain Dosa", "description": "A simple and crispy South Indian rice crepe.", "price": 60, "veg": true },
+        { "name": "Masala Dosa", "description": "Crispy dosa stuffed with spiced potato filling.", "price": 70, "veg": true },
+        { "name": "Butter Masala Dosa", "description": "A rich dosa made with butter and stuffed with spiced potatoes.", "price": 80, "veg": true },
+        { "name": "Onion Masala", "description": "Dosa filled with a savory mixture of onions and spiced potatoes.", "price": 80, "veg": true },
+        { "name": "Paneer Dosa", "description": "A unique dosa stuffed with seasoned paneer filling.", "price": 100, "veg": true }
       ]
     },
     {
@@ -96,7 +96,7 @@
       "foodItems": [
         {
           "name": "Downtown Special",
-          "description": "",
+          "description": "An indulgent pizza loaded with premium toppings and cheese.",
           "options": [
             { "type": "Regular", "price": 199 },
             { "type": "Medium", "price": 349 },
@@ -106,7 +106,7 @@
         },
         {
           "name": "Garden Special",
-          "description": "Mushroom, capsicum, onion, tomato",
+          "description": "Fresh mushrooms, capsicum, onions, and tomatoes on a cheesy base.",
           "options": [
             { "type": "Regular", "price": 149 },
             { "type": "Medium", "price": 249 },
@@ -116,7 +116,7 @@
         },
         {
           "name": "Farm Villa",
-          "description": "Paneer, onion, tomato, capsicum, red paprika",
+          "description": "A medley of paneer, onion, tomato, capsicum, and red paprika.",
           "options": [
             { "type": "Regular", "price": 179 },
             { "type": "Medium", "price": 279 },
@@ -126,7 +126,7 @@
         },
         {
           "name": "Baby Lover",
-          "description": "Sweet corn, olives, capsicum, onion",
+          "description": "Sweet corn, olives, capsicum, and onions on a cheesy base.",
           "options": [
             { "type": "Regular", "price": 159 },
             { "type": "Medium", "price": 259 },
@@ -136,7 +136,7 @@
         },
         {
           "name": "Hot Passion",
-          "description": "Tomato, mushroom, red paprika, jalapeno, olives",
+          "description": "Tomato, mushroom, red paprika, jalapeno, and olives for a fiery kick.",
           "options": [
             { "type": "Regular", "price": 179 },
             { "type": "Medium", "price": 279 },
@@ -146,7 +146,7 @@
         },
         {
           "name": "Onion Corn Pizza",
-          "description": "",
+          "description": "Simple and tasty pizza with onion and sweet corn toppings.",
           "options": [
             { "type": "Regular", "price": 149 },
             { "type": "Medium", "price": 249 },
@@ -156,7 +156,7 @@
         },
         {
           "name": "Paneer Pizza",
-          "description": "",
+          "description": "Cheesy pizza topped with paneer and classic Italian herbs.",
           "options": [
             { "type": "Regular", "price": 159 },
             { "type": "Medium", "price": 259 },
@@ -166,7 +166,7 @@
         },
         {
           "name": "Margherita Pizza",
-          "description": "",
+          "description": "Classic pizza with a simple cheese and tomato topping.",
           "options": [
             { "type": "Regular", "price": 129 },
             { "type": "Medium", "price": 229 },
@@ -176,7 +176,7 @@
         },
         {
           "name": "Mushroom N Olives",
-          "description": "",
+          "description": "Delightful combination of mushrooms and olives on a cheesy base.",
           "options": [
             { "type": "Regular", "price": 149 },
             { "type": "Medium", "price": 249 },
@@ -189,33 +189,33 @@
     {
       "category": "Shakes/Mocktails/Beverages",
       "foodItems": [
-        { "name": "Oreo Shake", "description": "", "price": 80, "veg": true },
-        { "name": "Kitkat Shake", "description": "", "price": 80, "veg": true },
-        { "name": "Butter Scotch Shake", "description": "", "price": 60, "veg": true },
-        { "name": "Strawberry Shake", "description": "", "price": 60, "veg": true },
-        { "name": "Vanilla Shake", "description": "", "price": 60, "veg": true },
-        { "name": "Blueberry Shake", "description": "", "price": 60, "veg": true },
-        { "name": "Black Current Shake", "description": "", "price": 60, "veg": true },
-        { "name": "Banana Shake", "description": "", "price": 60, "veg": true },
-        { "name": "Mango Shake", "description": "", "price": 60, "veg": true },
-        { "name": "Papaya Shake", "description": "", "price": 60, "veg": true },
-        { "name": "Cold Coffee", "description": "", "price": 50, "veg": true },
-        { "name": "Hot Coffee", "description": "", "price": 60, "veg": true },
-        { "name": "Mint Mojito", "description": "", "price": 60, "veg": true },
-        { "name": "Green Apple Mojito", "description": "", "price": 60, "veg": true },
-        { "name": "Blue Curraco Mojito", "description": "", "price": 60, "veg": true },
-        { "name": "Virgin Mojito", "description": "", "price": 60, "veg": true },
-        { "name": "Watermelon Mojito", "description": "", "price": 60, "veg": true }
+        { "name": "Oreo Shake", "description": "Rich and creamy shake blended with Oreo cookies.", "price": 80, "veg": true },
+        { "name": "Kitkat Shake", "description": "A sweet shake infused with KitKat chocolate bars.", "price": 80, "veg": true },
+        { "name": "Butter Scotch Shake", "description": "A delicious butterscotch-flavored milkshake.", "price": 60, "veg": true },
+        { "name": "Strawberry Shake", "description": "A refreshing milkshake made with ripe strawberries.", "price": 60, "veg": true },
+        { "name": "Vanilla Shake", "description": "Classic milkshake with a creamy vanilla flavor.", "price": 60, "veg": true },
+        { "name": "Blueberry Shake", "description": "Smooth shake infused with tangy blueberry flavor.", "price": 60, "veg": true },
+        { "name": "Black Current Shake", "description": "A delightful milkshake with a blackcurrant twist.", "price": 60, "veg": true },
+        { "name": "Banana Shake", "description": "Sweet and creamy banana-flavored shake.", "price": 60, "veg": true },
+        { "name": "Mango Shake", "description": "A tropical milkshake with sweet mango pulp.", "price": 60, "veg": true },
+        { "name": "Papaya Shake", "description": "Nutrient-rich shake with the goodness of papaya.", "price": 60, "veg": true },
+        { "name": "Cold Coffee", "description": "Iced coffee blended to perfection.", "price": 50, "veg": true },
+        { "name": "Hot Coffee", "description": "Freshly brewed hot coffee with a rich aroma.", "price": 60, "veg": true },
+        { "name": "Mint Mojito", "description": "Refreshing mojito with a burst of minty flavor.", "price": 60, "veg": true },
+        { "name": "Green Apple Mojito", "description": "A tangy mojito with a hint of green apple.", "price": 60, "veg": true },
+        { "name": "Blue Curraco Mojito", "description": "Vibrant mojito with a blue curacao essence.", "price": 60, "veg": true },
+        { "name": "Virgin Mojito", "description": "A classic non-alcoholic mojito with mint and lime.", "price": 60, "veg": true },
+        { "name": "Watermelon Mojito", "description": "Refreshing mojito with juicy watermelon flavor.", "price": 60, "veg": true }
       ]
     },
     {
       "category": "Special Combos",
       "foodItems": [
-        { "name": "Burger + French Fries + Coke", "description": "", "price": 79, "veg": true },
-        { "name": "Fried Rice + Chilly Paneer", "description": "", "price": 159, "veg": true },
-        { "name": "Pasta + Pizza + Coke", "description": "", "price": 249, "veg": true },
-        { "name": "Sandwich + Burger + Coke", "description": "", "price": 139, "veg": true },
-        { "name": "Kurkure Momos + Spring Roll + Cold Drink", "description": "", "price": 139, "veg": true }
+        { "name": "Burger + French Fries + Coke", "description": "A delightful combo of a burger, crispy fries, and a refreshing Coke.", "price": 79, "veg": true },
+        { "name": "Fried Rice + Chilly Paneer", "description": "A fulfilling combo of veg fried rice and spicy chilly paneer.", "price": 159, "veg": true },
+        { "name": "Pasta + Pizza + Coke", "description": "A delicious combo of cheesy pasta, pizza, and Coke.", "price": 249, "veg": true },
+        { "name": "Sandwich + Burger + Coke", "description": "A tasty combo of a sandwich, burger, and a refreshing Coke.", "price": 139, "veg": true },
+        { "name": "Kurkure Momos + Spring Roll + Cold Drink", "description": "A crispy combo of kurkure momos, spring rolls, and a cold drink.", "price": 139, "veg": true }
       ]
     }
   ]
