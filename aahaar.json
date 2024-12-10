@@ -1,318 +1,338 @@
 {
-    "restaurant_name": "AAHAAR RESTAURANT",
-    "contact": "8899414741",
-    "categories": {
-        "Momos": {
-            "Steam Momos": {
-                "price": "60",
-                "description": "Soft steamed dumplings filled with veggies."
-            },
-            "Fry Momos": {
-                "price": "70",
-                "description": "Crispy fried dumplings for a delicious snack."
-            },
-            "Kurkura Momos": {
-                "price": "100",
-                "description": "Crispy coated momos with a spicy twist."
-            },
-            "Chilli Momos": {
-                "price": "100",
-                "description": "Spicy momos tossed in chili sauce."
-            },
-            "Paneer Fry Momos": {
-                "price": "90",
-                "description": "Fried dumplings stuffed with paneer."
-            },
-            "Tandoori Momos": {
-                "price": "110",
-                "description": "Grilled dumplings with a smoky flavor."
-            },
-            "Malai Momos": {
-                "price": "130",
-                "description": "Creamy dumplings with a rich filling."
-            }
-        },
-        "Snacks": {
-            "Samosa Plate": {
-                "price": "40",
-                "description": "Crispy triangular pastries filled with spiced potatoes."
-            },
-            "Aloo Tikki": {
-                "price": "50",
-                "description": "Fried potato patties seasoned with spices."
-            },
-            "French Fry": {
-                "price": "70",
-                "description": "Golden, crispy potato fries."
-            },
-            "Spring Roll": {
-                "price": "70",
-                "description": "Crispy rolls filled with veggies."
-            },
-            "Kurkura Spring Roll": {
-                "price": "100",
-                "description": "Crunchy and spicy spring rolls."
-            },
-            "Chilli Potato": {
-                "price": "90",
-                "description": "Crispy potatoes tossed in spicy chili sauce."
-            }
-        },
-        "Maggi": {
-            "Simple Maggi": {
-                "price": "30",
-                "description": "Classic instant noodles with simple spices."
-            },
-            "Veg Maggi": {
-                "price": "40",
-                "description": "Maggi with added vegetables for extra flavor."
-            },
-            "Paneer Maggi": {
-                "price": "50",
-                "description": "Creamy noodles topped with paneer."
-            }
-        },
-        "Hot Dogs": {
-            "Aloo Tikki Hot Dog": {
-                "price": "30",
-                "description": "A delicious hot dog filled with spicy aloo tikki."
-            },
-            "Paneer Hot Dog": {
-                "price": "40",
-                "description": "A mouthwatering hot dog stuffed with flavorful paneer."
-            }
-        },
-        "Kulchas": {
-            "Kaladi Kulcha": {
-                "price": "60",
-                "description": "A traditional kulcha stuffed with kaladi, a unique delicacy from Jammu."
-            }
-        },
-        "Bhajis": {
-            "Pau Bhaji": {
-                "price": "80",
-                "description": "A popular street food dish of spiced mixed vegetable mash served with buttery pav."
-            }
-        },
-        "Chole Items": {
-            "Cholay Bhatura": {
-                "price": "60",
-                "description": "A classic North Indian dish of spicy chickpeas served with deep-fried fluffy bhaturas."
-            },
-            "Puri Channa": {
-                "price": "60",
-                "description": "A hearty meal of spiced chickpeas served with crispy puris."
-            }
-        },
-        "Chowmein": {
-            "Veg Chowmein": {
-                "price": "70",
-                "description": "Stir-fried noodles with mixed vegetables."
-            },
-            "Hakka Chowmein": {
-                "price": "80",
-                "description": "Savory noodles cooked in Hakka style."
-            },
-            "Garlic Chowmein": {
-                "price": "90",
-                "description": "Noodles infused with garlic flavor."
-            },
-            "Paneer Chowmein": {
-                "price": "90",
-                "description": "Stir-fried noodles with paneer."
-            }
-        },
-        "Manchurian": {
-            "Manchurian Gravy": {
-                "price": "90",
-                "description": "Soft Manchurian balls served in savory gravy."
-            },
-            "Manchurian Dry": {
-                "price": "100",
-                "description": "Crispy Manchurian balls without gravy."
-            }
-        },
-        "Chaap": {
-            "Masala Chaap": {
-                "price": "90",
-                "description": "Grilled chaap coated with flavorful masala."
-            },
-            "Chilli Chaap": {
-                "price": "100",
-                "description": "Chaap cooked in a spicy chili sauce."
-            },
-            "Tandoori Chaap": {
-                "price": "120",
-                "description": "Chaap marinated and cooked in a tandoor."
-            },
-            "Malai Chaap": {
-                "price": "130",
-                "description": "Creamy chaap with a rich, buttery taste."
-            },
-            "Afghani Chaap": {
-                "price": "150",
-                "description": "Chaap cooked in a creamy Afghani style."
-            }
-        },
-        "Naan ": {
-            "Plain Naan": {
-                "price": "60",
-                "description": "Soft, fluffy Indian bread."
-            },
-            "Butter Naan": {
-                "price": "60",
-                "description": "Naan topped with melted butter."
-            },
-            "Amritsari Naan": {
-                "price": "60",
-                "description": "Stuffed naan with authentic Amritsari flavors."
-            },
-            "Tandoori Roti": {
-                "price": "15",
-                "description": "Whole wheat bread cooked in a tandoor."
-            },
-            "Butter Tandoori Roti": {
-                "price": "20",
-                "description": "Tandoori roti brushed with butter."
-            }
-        },
-        "Paneer": {
-            "Chilli Paneer": {
-                "price": "150",
-                "description": "Paneer cubes tossed in a spicy chili sauce."
-            },
-            "Paneer Tikka": {
-                "price": "150",
-                "description": "Grilled paneer marinated in spices."
-            },
-            "Chilli Mushroom": {
-                "price": "130",
-                "description": "Mushrooms cooked in spicy chili sauce."
-            },
-            "Mushroom Tikka": {
-                "price": "150",
-                "description": "Grilled mushrooms marinated in spices."
-            }
-        },
-        "Shakes": {
-            "Lassi": {
-                "price": "40",
-                "description": "Refreshing yogurt-based drink."
-            },
-            "Banana Shake": {
-                "price": "60",
-                "description": "Creamy banana-flavored milkshake."
-            },
-            "Vanilla Shake": {
-                "price": "70",
-                "description": "Classic vanilla-flavored milkshake."
-            },
-            "Butter Scotch Milk Shake": {
-                "price": "80",
-                "description": "Rich milkshake with a butterscotch flavor."
-            },
-            "Strawberry Milk Shake": {
-                "price": "70",
-                "description": "Fruity milkshake with strawberry flavor."
-            }
-        },
-        "Soup": {
-            "Mix Veg Soup": {
-                "price": "40",
-                "description": "Warm soup with mixed vegetables."
-            },
-            "Manchow Soup": {
-                "price": "50",
-                "description": "Spicy and tangy Chinese soup."
-            },
-            "Hot and Sour Soup": {
-                "price": "60",
-                "description": "Tangy soup with a spicy kick."
-            }
-        },
-        "Dosa": {
-            "Plain Dosa": {
-                "price": "60",
-                "description": "Classic South Indian thin rice crepe."
-            },
-            "Butter Dosa": {
-                "price": "60",
-                "description": "Dosa topped with melted butter."
-            },
-            "Masala Dosa": {
-                "price": "80",
-                "description": "Dosa filled with spiced potato masala."
-            },
-            "Onion Dosa": {
-                "price": "80",
-                "description": "Dosa topped with onions."
-            },
-            "Paneer Dosa": {
-                "price": "130",
-                "description": "Dosa filled with spiced paneer."
-            },
-            "Masoor M Dosa": {
-                "price": "130",
-                "description": "A dosa variant with a lentil twist."
-            },
-            "Salad Roast Dosa": {
-                "price": "130",
-                "description": "Healthy dosa with a fresh salad topping."
-            },
-            "Aahaar Special": {
-                "price": "150",
-                "description": "Special dosa with a mix of unique fillings."
-            },
-            "Paneer Utpam": {
-                "price": "90",
-                "description": "Thick pancake with paneer toppings."
-            },
-            "Onion Utpam": {
-                "price": "80",
-                "description": "Thick pancake with onion toppings."
-            },
-            "Mix Veg Utpam": {
-                "price": "70",
-                "description": "Thick pancake with mixed vegetable toppings."
-            }
-        },
-        "Fried Rice": {
-            "Fried Rice Veg": {
-                "price": "70/- 40",
-                "description": "Rice stir-fried with mixed vegetables."
-            },
-            "Fried Rice Paneer": {
-                "price": "90/- 50",
-                "description": "Fried rice with paneer cubes."
-            },
-            "Schewan Fried Rice": {
-                "price": "90",
-                "description": "Spicy fried rice with Schezwan flavors."
-            }
-        },
-        "Tea & Coffee": {
-            "Tea": {
-                "price": "15",
-                "description": "Classic Indian tea."
-            },
-            "Masala Tea": {
-                "price": "20",
-                "description": "Spiced tea with aromatic flavors."
-            },
-            "Coffee": {
-                "price": "30",
-                "description": "Freshly brewed coffee."
-            }
-        },
-        "Extras": {
-            "Cold Drinks": {
-                "price": "MRP",
-                "description": "Chilled soft drinks at market price."
-            },
-            "Water": {
-                "price": "MRP",
-                "description": "Packaged drinking water at market price."
-            }
-        }
+  "restaurant_name": "AAHAAR RESTAURANT",
+  "contact": "8899414741",
+  "categories": {
+    "Momos": {
+      "Steam Momos": {
+        "price": "60",
+        "description": "Soft steamed dumplings filled with veggies."
+      },
+      "Fry Momos": {
+        "price": "70",
+        "description": "Crispy fried dumplings for a delicious snack."
+      },
+      "Kurkura Momos": {
+        "price": "100",
+        "description": "Crispy coated momos with a spicy twist."
+      },
+      "Chilli Momos": {
+        "price": "100",
+        "description": "Spicy momos tossed in chili sauce."
+      },
+      "Paneer Fry Momos": {
+        "price": "90",
+        "description": "Fried dumplings stuffed with paneer."
+      },
+      "Tandoori Momos": {
+        "price": "110",
+        "description": "Grilled dumplings with a smoky flavor."
+      },
+      "Malai Momos": {
+        "price": "130",
+        "description": "Creamy dumplings with a rich filling."
+      }
+    },
+    "Snacks": {
+      "Samosa Plate": {
+        "price": "40",
+        "description": "Crispy triangular pastries filled with spiced potatoes."
+      },
+      "Aloo Tikki": {
+        "price": "50",
+        "description": "Fried potato patties seasoned with spices."
+      },
+      "French Fry": {
+        "price": "70",
+        "description": "Golden, crispy potato fries."
+      },
+      "Spring Roll": {
+        "price": "70",
+        "description": "Crispy rolls filled with veggies."
+      },
+      "Kurkura Spring Roll": {
+        "price": "100",
+        "description": "Crunchy and spicy spring rolls."
+      },
+      "Chilli Potato": {
+        "price": "90",
+        "description": "Crispy potatoes tossed in spicy chili sauce."
+      }
+    },
+    "Maggi": {
+      "Simple Maggi": {
+        "price": "30",
+        "description": "Classic instant noodles with simple spices."
+      },
+      "Veg Maggi": {
+        "price": "40",
+        "description": "Maggi with added vegetables for extra flavor."
+      },
+      "Paneer Maggi": {
+        "price": "50",
+        "description": "Creamy noodles topped with paneer."
+      }
+    },
+    "Hot Dogs": {
+      "Aloo Tikki Hot Dog": {
+        "price": "30",
+        "description": "A delicious hot dog filled with spicy aloo tikki."
+      },
+      "Paneer Hot Dog": {
+        "price": "40",
+        "description": "A mouthwatering hot dog stuffed with flavorful paneer."
+      }
+    },
+    "Kulchas": {
+      "Kaladi Kulcha": {
+        "price": "60",
+        "description": "A traditional kulcha stuffed with kaladi, a unique delicacy from Jammu."
+      }
+    },
+    "Burger": {
+      "Aloo Tikki Burger": {
+        "price": "40",
+        "description": "Crispy aloo tikki patty served in a burger bun."
+      },
+      "Cheese Burger": {
+        "price": "50",
+        "description": "Juicy burger with a melted cheese topping."
+      },
+      "Paneer Burger": {
+        "price": "60",
+        "description": "Delicious burger filled with spiced paneer."
+      }
+    },
+    "Bhajis": {
+      "Pau Bhaji": {
+        "price": "80",
+        "description": "A popular street food dish of spiced mixed vegetable mash served with buttery pav."
+      }
+    },
+    "Chole Items": {
+      "Cholay Bhatura": {
+        "price": "60",
+        "description": "A classic North Indian dish of spicy chickpeas served with deep-fried fluffy bhaturas."
+      },
+      "Puri Channa": {
+        "price": "60",
+        "description": "A hearty meal of spiced chickpeas served with crispy puris."
+      }
+    },
+    "Chowmein": {
+      "Veg Chowmein": {
+        "price": "70",
+        "description": "Stir-fried noodles with mixed vegetables."
+      },
+      "Hakka Chowmein": {
+        "price": "80",
+        "description": "Savory noodles cooked in Hakka style."
+      },
+      "Garlic Chowmein": {
+        "price": "90",
+        "description": "Noodles infused with garlic flavor."
+      },
+      "Paneer Chowmein": {
+        "price": "90",
+        "description": "Stir-fried noodles with paneer."
+      }
+    },
+    "Manchurian": {
+      "Manchurian Gravy": {
+        "price": "90",
+        "description": "Soft Manchurian balls served in savory gravy."
+      },
+      "Manchurian Dry": {
+        "price": "100",
+        "description": "Crispy Manchurian balls without gravy."
+      }
+    },
+    "Chaap": {
+      "Masala Chaap": {
+        "price": "90",
+        "description": "Grilled chaap coated with flavorful masala."
+      },
+      "Chilli Chaap": {
+        "price": "100",
+        "description": "Chaap cooked in a spicy chili sauce."
+      },
+      "Tandoori Chaap": {
+        "price": "120",
+        "description": "Chaap marinated and cooked in a tandoor."
+      },
+      "Malai Chaap": {
+        "price": "130",
+        "description": "Creamy chaap with a rich, buttery taste."
+      },
+      "Afghani Chaap": {
+        "price": "150",
+        "description": "Chaap cooked in a creamy Afghani style."
+      }
+    },
+    "Naan ": {
+      "Plain Naan": {
+        "price": "60",
+        "description": "Soft, fluffy Indian bread."
+      },
+      "Butter Naan": {
+        "price": "60",
+        "description": "Naan topped with melted butter."
+      },
+      "Amritsari Naan": {
+        "price": "60",
+        "description": "Stuffed naan with authentic Amritsari flavors."
+      },
+      "Tandoori Roti": {
+        "price": "15",
+        "description": "Whole wheat bread cooked in a tandoor."
+      },
+      "Butter Tandoori Roti": {
+        "price": "20",
+        "description": "Tandoori roti brushed with butter."
+      }
+    },
+    "Paneer": {
+      "Chilli Paneer": {
+        "price": "150",
+        "description": "Paneer cubes tossed in a spicy chili sauce."
+      },
+      "Paneer Tikka": {
+        "price": "150",
+        "description": "Grilled paneer marinated in spices."
+      },
+      "Chilli Mushroom": {
+        "price": "130",
+        "description": "Mushrooms cooked in spicy chili sauce."
+      },
+      "Mushroom Tikka": {
+        "price": "150",
+        "description": "Grilled mushrooms marinated in spices."
+      }
+    },
+    "Shakes": {
+      "Lassi": {
+        "price": "40",
+        "description": "Refreshing yogurt-based drink."
+      },
+      "Banana Shake": {
+        "price": "60",
+        "description": "Creamy banana-flavored milkshake."
+      },
+      "Vanilla Shake": {
+        "price": "70",
+        "description": "Classic vanilla-flavored milkshake."
+      },
+      "Butter Scotch Milk Shake": {
+        "price": "80",
+        "description": "Rich milkshake with a butterscotch flavor."
+      },
+      "Strawberry Milk Shake": {
+        "price": "70",
+        "description": "Fruity milkshake with strawberry flavor."
+      }
+    },
+    "Soup": {
+      "Mix Veg Soup": {
+        "price": "40",
+        "description": "Warm soup with mixed vegetables."
+      },
+      "Manchow Soup": {
+        "price": "50",
+        "description": "Spicy and tangy Chinese soup."
+      },
+      "Hot and Sour Soup": {
+        "price": "60",
+        "description": "Tangy soup with a spicy kick."
+      }
+    },
+    "Dosa": {
+      "Plain Dosa": {
+        "price": "60",
+        "description": "Classic South Indian thin rice crepe."
+      },
+      "Butter Dosa": {
+        "price": "60",
+        "description": "Dosa topped with melted butter."
+      },
+      "Masala Dosa": {
+        "price": "80",
+        "description": "Dosa filled with spiced potato masala."
+      },
+      "Onion Dosa": {
+        "price": "80",
+        "description": "Dosa topped with onions."
+      },
+      "Paneer Dosa": {
+        "price": "130",
+        "description": "Dosa filled with spiced paneer."
+      },
+      "Masoor M Dosa": {
+        "price": "130",
+        "description": "A dosa variant with a lentil twist."
+      },
+      "Salad Roast Dosa": {
+        "price": "130",
+        "description": "Healthy dosa with a fresh salad topping."
+      },
+      "Aahaar Special": {
+        "price": "150",
+        "description": "Special dosa with a mix of unique fillings."
+      },
+      "Paneer Utpam": {
+        "price": "90",
+        "description": "Thick pancake with paneer toppings."
+      },
+      "Onion Utpam": {
+        "price": "80",
+        "description": "Thick pancake with onion toppings."
+      },
+      "Mix Veg Utpam": {
+        "price": "70",
+        "description": "Thick pancake with mixed vegetable toppings."
+      }
+    },
+    "Fried Rice": {
+      "Fried Rice Veg": {
+        "price": "70/- 40",
+        "description": "Rice stir-fried with mixed vegetables."
+      },
+      "Fried Rice Paneer": {
+        "price": "90/- 50",
+        "description": "Fried rice with paneer cubes."
+      },
+      "Schewan Fried Rice": {
+        "price": "90",
+        "description": "Spicy fried rice with Schezwan flavors."
+      }
+    },
+    "Tea & Coffee": {
+      "Tea": {
+        "price": "15",
+        "description": "Classic Indian tea."
+      },
+      "Masala Tea": {
+        "price": "20",
+        "description": "Spiced tea with aromatic flavors."
+      },
+      "Coffee": {
+        "price": "30",
+        "description": "Freshly brewed coffee."
+      }
+    },
+    "Sweets": {
+      "Gulab Jamun": {
+        "price": "30",
+        "description": "Soft and juicy sweet dumplings soaked in sugar syrup."
+      }
+    },
+    "Extras": {
+      "Cold Drinks": {
+        "price": "MRP",
+        "description": "Chilled soft drinks at market price."
+      },
+      "Water": {
+        "price": "MRP",
+        "description": "Packaged drinking water at market price."
+      }
     }
+  }
 }
