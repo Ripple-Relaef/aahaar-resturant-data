@@ -1,0 +1,164 @@
+{
+  "menu": [
+    {
+      "category": "STARTERS TANDOOR & CHINESE",
+      "foodItems": [
+        {"name": "Malai Champ", "veg": true, "price": 119},
+        {"name": "Afghani Champ", "veg": true, "price": 130},
+        {"name": "Achari Champ", "veg": true, "price": 99},
+        {"name": "Champ Fry", "veg": true, "price": 130},
+        {"name": "Mushroom Tikka", "veg": true, "price": 199},
+        {"name": "Paneer Tikka", "veg": true, "price": 220},
+        {"name": "Crispy Mushroom", "veg": true, "price": 199},
+        {"name": "Chilli Mushroom", "veg": true, "price": 199},
+        {"name": "Chilli Potato", "veg": true, "price": 130},
+        {"name": "Honey Chilli Potato", "veg": true, "price": 149},
+        {"name": "French Fries", "veg": true, "price": 99},
+        {"name": "Chilli Champ", "veg": true, "price": 149},
+        {"name": "Steam Momos", "veg": true, "price": 59},
+        {"name": "Fry Momos", "veg": true, "price": 79},
+        {"name": "Kurkure Momos", "veg": true, "price": 120},
+        {"name": "Spring Rolls", "veg": true, "price": 79},
+        {"name": "Veg Noodles", "veg": true, "price": 79},
+        {"name": "Hakka Noodles", "veg": true, "price": 120},
+        {"name": "Dry Manchurian", "veg": true, "price": 110},
+        {"name": "Malai Momos", "veg": true, "price": 110},
+        {"name": "Tandoori Momos", "veg": true, "price": 99},
+        {"name": "Paneer Pakoda", "veg": true, "price": 120},
+        {"name": "Chilli Paneer Gravy", "veg": true, "price": 199},
+        {"name": "Chilli Mushroom Gravy", "veg": true, "price": 199}
+      ]
+    },
+    {
+      "category": "SWEET/DESSERTS",
+      "foodItems": [
+        {"name": "Ice Cream", "veg": true, "price": 50},
+        {"name": "Gulabjamun", "veg": true, "price": 30},
+        {"name": "Pastry", "veg": true, "price": 39},
+        {"name": "Gajjar Ka Halwa", "veg": true, "price": 50}
+      ]
+    },
+    {
+      "category": "MAHA COMBO PACKS",
+      "foodItems": [
+        {"name": "Momos + Spring Rolls + Noodles", "veg": true, "price": 179},
+        {"name": "Chilli Paneer + Fried Rice + Naan + Sweet", "veg": true, "price": 249},
+        {"name": "Manchurian + Fried Rice + Naan", "veg": true, "price": 199},
+        {"name": "Crispy Veg + Butter Naan", "veg": true, "price": 199},
+        {"name": "Chilli Mushroom + Naan", "veg": true, "price": 199},
+        {"name": "Burger + S/W + Small Pizza", "veg": true, "price": 249},
+        {"name": "Aloo Naan 2 + Rajma + Cholle + Raita", "veg": true, "price": 179},
+        {"name": "Burger Plain + French Fries + Coke", "veg": true, "price": 99},
+        {"name": "Aloo Naan 2 + Cholle + Pickle", "veg": true, "price": 59}
+      ]
+    },
+    {
+      "category": "SOUTH INDIAN",
+      "foodItems": [
+        {"name": "Plain Dosa", "veg": true, "price": 59},
+        {"name": "Masala Dosa", "veg": true, "price": 79},
+        {"name": "Paneer Dosa", "veg": true, "price": 99},
+        {"name": "Pav Bhaji", "veg": true, "price": 79}
+      ]
+    },
+    {
+      "category": "BURGERS",
+      "foodItems": [
+        {"name": "Tikki Burger", "veg": true, "price": 49},
+        {"name": "Veg Burger", "veg": true, "price": 80},
+        {"name": "Cheese Burger", "veg": true, "price": 80},
+        {"name": "Paneer & Cheese Burger", "veg": true, "price": 99}
+      ]
+    },
+    {
+      "category": "PASTA",
+      "foodItems": [
+        {
+          "name": "Red Sauces Pasta",
+          "veg": true,
+          "options": [
+            {"type": "Small", "price": 120},
+            {"type": "Large", "price": 199}
+          ]
+        },
+        {
+          "name": "White Sauces Pasta",
+          "veg": true,
+          "options": [
+            {"type": "Small", "price": 120},
+            {"type": "Large", "price": 220}
+          ]
+        },
+        {
+          "name": "Mix Pasta",
+          "veg": true,
+          "options": [
+            {"type": "Small", "price": 130},
+            {"type": "Large", "price": 249}
+          ]
+        }
+      ]
+    },
+    {
+      "category": "SANDWICH CORNER",
+      "foodItems": [
+        {"name": "Chilli Toast", "veg": true, "price": 79},
+        {"name": "Cheese Stuff Garlic Bread", "veg": true, "price": 149},
+        {"name": "Kathi Roll", "veg": true, "price": 129},
+        {"name": "Paneer Kathi Roll", "veg": true, "price": 199},
+        {"name": "Kalari S/W [SL]", "veg": true, "price": 99},
+        {"name": "Kalari Kulcha [S]", "veg": true, "price": 79},
+        {"name": "Cheese n Tomato S/W", "veg": true, "price": 99},
+        {"name": "Corn S/W", "veg": true, "price": 99},
+        {"name": "Paneer n Cheese S/W", "veg": true, "price": 149},
+        {"name": "Paneer Tikka S/W", "veg": true, "price": 199},
+        {"name": "Sorisso Special S/W", "veg": true, "price": 199}
+      ]
+    },
+    {
+      "category": "RICE",
+      "foodItems": [
+        {"name": "Plain Rice", "veg": true, "price": 79},
+        {"name": "Jeera Rice", "veg": true, "price": 99},
+        {"name": "Rajma Rice", "veg": true, "price": 119},
+        {"name": "Veg Biryani", "veg": true, "price": 199},
+        {"name": "Veg Fried Rice", "veg": true, "price": 129}
+      ]
+    },
+    {
+      "category": "PIZZA",
+      "foodItems": [
+        {
+          "name": "Plain Pizza",
+          "description": "Tomato Sauce + Cheese",
+          "veg": true,
+          "options": [
+            {"size": "Small", "price": 99},
+            {"size": "Medium", "price": 200},
+            {"size": "Large", "price": 300}
+          ]
+        },
+        {
+          "name": "Margherita",
+          "description": "Basil + Tomato + Cheese",
+          "veg": true,
+          "options": [
+            {"size": "Small", "price": 99},
+            {"size": "Medium", "price": 200},
+            {"size": "Large", "price": 300}
+          ]
+        },
+        {
+          "name": "Ultimate Vegetarian",
+          "description": "Onion + Capsicum",
+          "veg": true,
+          "options": [
+            {"size": "Small", "price": 99},
+            {"size": "Medium", "price": 200},
+            {"size": "Large", "price": 300}
+          ]
+        }
+      ]
+    }
+  ]
+}
