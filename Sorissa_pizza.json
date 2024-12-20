@@ -3,71 +3,342 @@
     {
       "category": "STARTERS TANDOOR & CHINESE",
       "foodItems": [
-        {"name": "Malai Champ", "veg": true, "price": 119},
-        {"name": "Afghani Champ", "veg": true, "price": 130},
-        {"name": "Achari Champ", "veg": true, "price": 99},
-        {"name": "Champ Fry", "veg": true, "price": 130},
-        {"name": "Mushroom Tikka", "veg": true, "price": 199},
-        {"name": "Paneer Tikka", "veg": true, "price": 220},
-        {"name": "Crispy Mushroom", "veg": true, "price": 199},
-        {"name": "Chilli Mushroom", "veg": true, "price": 199},
-        {"name": "Chilli Potato", "veg": true, "price": 130},
-        {"name": "Honey Chilli Potato", "veg": true, "price": 149},
-        {"name": "French Fries", "veg": true, "price": 99},
-        {"name": "Chilli Champ", "veg": true, "price": 149},
-        {"name": "Steam Momos", "veg": true, "price": 59},
-        {"name": "Fry Momos", "veg": true, "price": 79},
-        {"name": "Kurkure Momos", "veg": true, "price": 120},
-        {"name": "Spring Rolls", "veg": true, "price": 79},
-        {"name": "Veg Noodles", "veg": true, "price": 79},
-        {"name": "Hakka Noodles", "veg": true, "price": 120},
-        {"name": "Dry Manchurian", "veg": true, "price": 110},
-        {"name": "Malai Momos", "veg": true, "price": 110},
-        {"name": "Tandoori Momos", "veg": true, "price": 99},
-        {"name": "Paneer Pakoda", "veg": true, "price": 120},
-        {"name": "Chilli Paneer Gravy", "veg": true, "price": 199},
-        {"name": "Chilli Mushroom Gravy", "veg": true, "price": 199}
+        {
+          "name": "Malai Champ",
+          "description": "Creamy and flavorful champ",
+          "veg": true,
+          "price": 119
+        },
+        {
+          "name": "Afghani Champ",
+          "description": "Rich and creamy Afghani champ",
+          "veg": true,
+          "price": 130
+        },
+        {
+          "name": "Achari Champ",
+          "description": "Tangy and spicy achari champ",
+          "veg": true,
+          "price": 99
+        },
+        {
+          "name": "Champ Fry",
+          "description": "Crispy fried champ",
+          "veg": true,
+          "price": 130
+        },
+        {
+          "name": "Mushroom Tikka",
+          "description": "Grilled mushroom tikka",
+          "veg": true,
+          "price": 199
+        },
+        {
+          "name": "Paneer Tikka",
+          "description": "Grilled paneer tikka",
+          "veg": true,
+          "price": 220
+        },
+        {
+          "name": "Crispy Mushroom",
+          "description": "Crispy fried mushrooms",
+          "veg": true,
+          "price": 199
+        },
+        {
+          "name": "Chilli Mushroom",
+          "description": "Spicy chilli mushrooms",
+          "veg": true,
+          "price": 199
+        },
+        {
+          "name": "Chilli Potato",
+          "description": "Spicy chilli potatoes",
+          "veg": true,
+          "price": 130
+        },
+        {
+          "name": "Honey Chilli Potato",
+          "description": "Sweet and spicy honey chilli potatoes",
+          "veg": true,
+          "price": 149
+        },
+        {
+          "name": "French Fries",
+          "description": "Classic french fries",
+          "veg": true,
+          "price": 99
+        },
+        {
+          "name": "Chilli Champ",
+          "description": "Spicy chilli champ",
+          "veg": true,
+          "price": 149
+        },
+        {
+          "name": "Steam Momos",
+          "description": "Steamed vegetable momos",
+          "veg": true,
+          "price": 59
+        },
+        {
+          "name": "Fry Momos",
+          "description": "Fried vegetable momos",
+          "veg": true,
+          "price": 79
+        },
+        {
+          "name": "Kurkure Momos",
+          "description": "Crispy kurkure momos",
+          "veg": true,
+          "price": 120
+        },
+        {
+          "name": "Spring Rolls",
+          "description": "Crispy vegetable spring rolls",
+          "veg": true,
+          "price": 79
+        },
+        {
+          "name": "Veg Noodles",
+          "description": "Stir-fried vegetable noodles",
+          "veg": true,
+          "price": 79
+        },
+        {
+          "name": "Hakka Noodles",
+          "description": "Spicy hakka noodles",
+          "veg": true,
+          "price": 120
+        },
+        {
+          "name": "Dry Manchurian",
+          "description": "Dry vegetable manchurian",
+          "veg": true,
+          "price": 110
+        },
+        {
+          "name": "Malai Momos",
+          "description": "Creamy malai momos",
+          "veg": true,
+          "price": 110
+        },
+        {
+          "name": "Tandoori Momos",
+          "description": "Grilled tandoori momos",
+          "veg": true,
+          "price": 99
+        },
+        {
+          "name": "Paneer Pakoda",
+          "description": "Fried paneer pakoda",
+          "veg": true,
+          "price": 120
+        },
+        {
+          "name": "Chilli Paneer Gravy",
+          "description": "Spicy chilli paneer in gravy",
+          "veg": true,
+          "price": 199
+        },
+        {
+          "name": "Chilli Mushroom Gravy",
+          "description": "Spicy chilli mushroom in gravy",
+          "veg": true,
+          "price": 199
+        }
       ]
     },
     {
       "category": "SWEET/DESSERTS",
       "foodItems": [
-        {"name": "Ice Cream", "veg": true, "price": 50},
-        {"name": "Gulabjamun", "veg": true, "price": 30},
-        {"name": "Pastry", "veg": true, "price": 39},
-        {"name": "Gajjar Ka Halwa", "veg": true, "price": 50}
+        {
+          "name": "Ice Cream",
+          "description": "Creamy ice cream",
+          "veg": true,
+          "price": 50
+        },
+        {
+          "name": "Gulabjamun",
+          "description": "Sweet and soft gulabjamun",
+          "veg": true,
+          "price": 30
+        },
+        {
+          "name": "Pastry",
+          "description": "Delicious pastry",
+          "veg": true,
+          "price": 39
+        },
+        {
+          "name": "Gajjar Ka Halwa",
+          "description": "Sweet carrot halwa",
+          "veg": true,
+          "price": 50
+        }
+      ]
+    },
+    {
+      "category": "SALAD",
+      "foodItems": [
+        {
+          "name": "Green Salad",
+          "description": "Fresh mixed greens",
+          "veg": true,
+          "price": 70
+        },
+        {
+          "name": "Plain Curd",
+          "description": "Smooth and creamy curd",
+          "veg": true,
+          "price": 40
+        },
+        {
+          "name": "Boondi Raita",
+          "description": "Curd with crispy boondi",
+          "veg": true,
+          "price": 70
+        },
+        {
+          "name": "Mix Veg Raita",
+          "description": "Curd with mixed vegetables",
+          "veg": true,
+          "price": 90
+        }
+      ]
+    },
+    {
+      "category": "SOUP",
+      "foodItems": [
+        {
+          "name": "HOT n SOUR",
+          "description": "Spicy and tangy soup",
+          "veg": true,
+          "price": 80
+        },
+        {
+          "name": "Vegetable Manchow",
+          "description": "Spicy vegetable soup ",
+          "veg": true,
+          "price": 80
+        }
       ]
     },
     {
       "category": "MAHA COMBO PACKS",
       "foodItems": [
-        {"name": "Momos + Spring Rolls + Noodles", "veg": true, "price": 179},
-        {"name": "Chilli Paneer + Fried Rice + Naan + Sweet", "veg": true, "price": 249},
-        {"name": "Manchurian + Fried Rice + Naan", "veg": true, "price": 199},
-        {"name": "Crispy Veg + Butter Naan", "veg": true, "price": 199},
-        {"name": "Chilli Mushroom + Naan", "veg": true, "price": 199},
-        {"name": "Burger + S/W + Small Pizza", "veg": true, "price": 249},
-        {"name": "Aloo Naan 2 + Rajma + Cholle + Raita", "veg": true, "price": 179},
-        {"name": "Burger Plain + French Fries + Coke", "veg": true, "price": 99},
-        {"name": "Aloo Naan 2 + Cholle + Pickle", "veg": true, "price": 59}
+        {
+          "name": "Momos + Spring Rolls + Noodles",
+          "description": "A delightful combo of momos, spring rolls, and noodles",
+          "veg": true,
+          "price": 179
+        },
+        {
+          "name": "Chilli Paneer + Fried Rice + Naan + Sweet",
+          "description": "Spicy chilli paneer with fried rice, naan, and a sweet treat",
+          "veg": true,
+          "price": 249
+        },
+        {
+          "name": "Manchurian + Fried Rice + Naan",
+          "description": "Tasty manchurian served with fried rice and naan",
+          "veg": true,
+          "price": 199
+        },
+        {
+          "name": "Crispy Veg + Butter Naan",
+          "description": "Crispy vegetables paired with butter naan",
+          "veg": true,
+          "price": 199
+        },
+        {
+          "name": "Chilli Mushroom + Naan",
+          "description": "Spicy chilli mushroom served with naan",
+          "veg": true,
+          "price": 199
+        },
+        {
+          "name": "Burger + S/W + Small Pizza",
+          "description": "A combo of burger, sandwich, and small pizza",
+          "veg": true,
+          "price": 249
+        },
+        {
+          "name": "Aloo Naan 2 + Rajma + Cholle + Raita",
+          "description": "Aloo naan served with rajma, cholle, and raita",
+          "veg": true,
+          "price": 179
+        },
+        {
+          "name": "Burger Plain + French Fries + Coke",
+          "description": "Plain burger with french fries and coke",
+          "veg": true,
+          "price": 99
+        },
+        {
+          "name": "Aloo Naan 2 + Cholle + Pickle",
+          "description": "Aloo naan served with cholle and pickle",
+          "veg": true,
+          "price": 59
+        }
       ]
     },
     {
       "category": "SOUTH INDIAN",
       "foodItems": [
-        {"name": "Plain Dosa", "veg": true, "price": 59},
-        {"name": "Masala Dosa", "veg": true, "price": 79},
-        {"name": "Paneer Dosa", "veg": true, "price": 99},
-        {"name": "Pav Bhaji", "veg": true, "price": 79}
+        {
+          "name": "Plain Dosa",
+          "description": "Classic plain dosa",
+          "veg": true,
+          "price": 59
+        },
+        {
+          "name": "Masala Dosa",
+          "description": "Dosa stuffed with spicy potato filling",
+          "veg": true,
+          "price": 79
+        },
+        {
+          "name": "Paneer Dosa",
+          "description": "Dosa filled with paneer",
+          "veg": true,
+          "price": 99
+        },
+        {
+          "name": "Pav Bhaji",
+          "description": "Spicy vegetable curry served with soft bread rolls",
+          "veg": true,
+          "price": 79
+        }
       ]
     },
     {
       "category": "BURGERS",
       "foodItems": [
-        {"name": "Tikki Burger", "veg": true, "price": 49},
-        {"name": "Veg Burger", "veg": true, "price": 80},
-        {"name": "Cheese Burger", "veg": true, "price": 80},
-        {"name": "Paneer & Cheese Burger", "veg": true, "price": 99}
+        {
+          "name": "Tikki Burger",
+          "description": "Burger with a crispy tikki patty",
+          "veg": true,
+          "price": 49
+        },
+        {
+          "name": "Veg Burger",
+          "description": "Classic vegetarian burger",
+          "veg": true,
+          "price": 80
+        },
+        {
+          "name": "Cheese Burger",
+          "description": "Burger with a cheese slice",
+          "veg": true,
+          "price": 80
+        },
+        {
+          "name": "Paneer & Cheese Burger",
+          "description": "Burger with paneer and cheese",
+          "veg": true,
+          "price": 99
+        }
       ]
     },
     {
@@ -75,26 +346,29 @@
       "foodItems": [
         {
           "name": "Red Sauces Pasta",
+          "description": "Pasta in red sauce",
           "veg": true,
           "options": [
-            {"type": "Small", "price": 120},
-            {"type": "Large", "price": 199}
+            { "type": "Small", "price": 120 },
+            { "type": "Large", "price": 199 }
           ]
         },
         {
           "name": "White Sauces Pasta",
+          "description": "Pasta in white sauce",
           "veg": true,
           "options": [
-            {"type": "Small", "price": 120},
-            {"type": "Large", "price": 220}
+            { "type": "Small", "price": 120 },
+            { "type": "Large", "price": 220 }
           ]
         },
         {
           "name": "Mix Pasta",
+          "description": "Pasta in a mix of red and white sauces",
           "veg": true,
           "options": [
-            {"type": "Small", "price": 130},
-            {"type": "Large", "price": 249}
+            { "type": "Small", "price": 130 },
+            { "type": "Large", "price": 249 }
           ]
         }
       ]
@@ -102,27 +376,107 @@
     {
       "category": "SANDWICH CORNER",
       "foodItems": [
-        {"name": "Chilli Toast", "veg": true, "price": 79},
-        {"name": "Cheese Stuff Garlic Bread", "veg": true, "price": 149},
-        {"name": "Kathi Roll", "veg": true, "price": 129},
-        {"name": "Paneer Kathi Roll", "veg": true, "price": 199},
-        {"name": "Kalari S/W [SL]", "veg": true, "price": 99},
-        {"name": "Kalari Kulcha [S]", "veg": true, "price": 79},
-        {"name": "Cheese n Tomato S/W", "veg": true, "price": 99},
-        {"name": "Corn S/W", "veg": true, "price": 99},
-        {"name": "Paneer n Cheese S/W", "veg": true, "price": 149},
-        {"name": "Paneer Tikka S/W", "veg": true, "price": 199},
-        {"name": "Sorisso Special S/W", "veg": true, "price": 199}
+        {
+          "name": "Chilli Toast",
+          "description": "Spicy chilli toast",
+          "veg": true,
+          "price": 79
+        },
+        {
+          "name": "Cheese Stuff Garlic Bread",
+          "description": "Garlic bread stuffed with cheese",
+          "veg": true,
+          "price": 149
+        },
+        {
+          "name": "Kathi Roll",
+          "description": "Delicious kathi roll",
+          "veg": true,
+          "price": 129
+        },
+        {
+          "name": "Paneer Kathi Roll",
+          "description": "Kathi roll with paneer filling",
+          "veg": true,
+          "price": 199
+        },
+        {
+          "name": "Kalari S/W [SL]",
+          "description": "Kalari sandwich",
+          "veg": true,
+          "price": 99
+        },
+        {
+          "name": "Kalari Kulcha [S]",
+          "description": "Kalari kulcha",
+          "veg": true,
+          "price": 79
+        },
+        {
+          "name": "Cheese n Tomato S/W",
+          "description": "Sandwich with cheese and tomato",
+          "veg": true,
+          "price": 99
+        },
+        {
+          "name": "Corn S/W",
+          "description": "Corn sandwich",
+          "veg": true,
+          "price": 99
+        },
+        {
+          "name": "Paneer n Cheese S/W",
+          "description": "Sandwich with paneer and cheese",
+          "veg": true,
+          "price": 149
+        },
+        {
+          "name": "Paneer Tikka S/W",
+          "description": "Sandwich with paneer tikka",
+          "veg": true,
+          "price": 199
+        },
+        {
+          "name": "Sorisso Special S/W",
+          "description": "Special sandwich from Sorisso",
+          "veg": true,
+          "price": 199
+        }
       ]
     },
     {
       "category": "RICE",
       "foodItems": [
-        {"name": "Plain Rice", "veg": true, "price": 79},
-        {"name": "Jeera Rice", "veg": true, "price": 99},
-        {"name": "Rajma Rice", "veg": true, "price": 119},
-        {"name": "Veg Biryani", "veg": true, "price": 199},
-        {"name": "Veg Fried Rice", "veg": true, "price": 129}
+        {
+          "name": "Plain Rice",
+          "description": "Simple plain rice",
+          "veg": true,
+          "price": 79
+        },
+        {
+          "name": "Jeera Rice",
+          "description": "Rice flavored with cumin seeds",
+          "veg": true,
+          "price": 99
+        },
+        {
+          "name": "Rajma Rice",
+          "description": "Rice served with kidney beans curry",
+          "veg": true,
+          "price": 119
+        },
+        {
+          "name": "Veg Biryani",
+          "description": "Spiced mixed vegetable biryani",
+          "veg": true,
+          "price": 199
+        },
+        {
+          "name": "Veg Fried Rice",
+          "description": "Fried rice with mixed vegetables",
+          "veg": true,
+          "price": 129
+        }
       ]
     },
     {
@@ -133,9 +487,9 @@
           "description": "Tomato Sauce + Cheese",
           "veg": true,
           "options": [
-            {"size": "Small", "price": 99},
-            {"size": "Medium", "price": 200},
-            {"size": "Large", "price": 300}
+            { "size": "Small", "price": 99 },
+            { "size": "Medium", "price": 200 },
+            { "size": "Large", "price": 300 }
           ]
         },
         {
@@ -143,9 +497,9 @@
           "description": "Basil + Tomato + Cheese",
           "veg": true,
           "options": [
-            {"size": "Small", "price": 99},
-            {"size": "Medium", "price": 200},
-            {"size": "Large", "price": 300}
+            { "size": "Small", "price": 99 },
+            { "size": "Medium", "price": 200 },
+            { "size": "Large", "price": 300 }
           ]
         },
         {
@@ -153,9 +507,312 @@
           "description": "Onion + Capsicum",
           "veg": true,
           "options": [
-            {"size": "Small", "price": 99},
-            {"size": "Medium", "price": 200},
-            {"size": "Large", "price": 300}
+            { "size": "Small", "price": 99 },
+            { "size": "Medium", "price": 200 },
+            { "size": "Large", "price": 300 }
+          ]
+        },
+        {
+          "name": "Mix Veg",
+          "description": "Onion + Capsicum + Mushroom",
+          "veg": true,
+          "options": [
+            { "size": "Small", "price": 180 },
+            { "size": "Medium", "price": 300 },
+            { "size": "Large", "price": 400 }
+          ]
+        },
+        {
+          "name": "Hot Veg",
+          "description": "Onion + Red Paprika + Sauce",
+          "veg": true,
+          "options": [
+            { "size": "Small", "price": 180 },
+            { "size": "Medium", "price": 300 },
+            { "size": "Large", "price": 400 }
+          ]
+        },
+        {
+          "name": "Pizza Bite",
+          "description": "Onion + Tomato + Basil",
+          "veg": true,
+          "options": [
+            { "size": "Small", "price": 180 },
+            { "size": "Medium", "price": 300 },
+            { "size": "Large", "price": 400 }
+          ]
+        },
+        {
+          "name": "Deluxe Margherita",
+          "description": "Mushroom + Organo + Basil + Onion + Extra Cheese",
+          "veg": true,
+          "options": [
+            { "size": "Small", "price": 250 },
+            { "size": "Medium", "price": 400 },
+            { "size": "Large", "price": 550 }
+          ]
+        },
+        {
+          "name": "Veg Classic",
+          "description": "American Corn + Capsicum + Mushroom + Black Olive",
+          "veg": true,
+          "options": [
+            { "size": "Small", "price": 250 },
+            { "size": "Medium", "price": 400 },
+            { "size": "Large", "price": 550 }
+          ]
+        },
+        {
+          "name": "Veg Supreme",
+          "description": "Capsicum + Baby Corn + Tomato + Onion + Mushroom + Black Olive",
+          "veg": true,
+          "options": [
+            { "size": "Small", "price": 250 },
+            { "size": "Medium", "price": 400 },
+            { "size": "Large", "price": 550 }
+          ]
+        },
+        {
+          "name": "Corn Feast",
+          "description": "American Corn + Baby Corn + Pineapple + Capsicum",
+          "veg": true,
+          "options": [
+            { "size": "Small", "price": 250 },
+            { "size": "Medium", "price": 400 },
+            { "size": "Large", "price": 550 }
+          ]
+        },
+        {
+          "name": "Tandoori Paneer",
+          "description": "Tandoori Paneer + Coriander + Green Chillies",
+          "veg": true,
+          "options": [
+            { "size": "Small", "price": 250 },
+            { "size": "Medium", "price": 400 },
+            { "size": "Large", "price": 550 }
+          ]
+        },
+        {
+          "name": "Hawaiian Pizza",
+
+          "description": "Pineapple + Apple + Onion + Mushroom",
+
+          "veg": true,
+
+          "options": [
+            { "size": "Small", "price": 250 },
+
+            { "size": "Medium", "price": 400 },
+
+            { "size": "Large", "price": 550 }
+          ]
+        },
+
+        {
+          "name": "Veg Lover",
+
+          "description": "Onion + Capsicum + Mushroom + Red Paprika",
+
+          "veg": true,
+
+          "options": [
+            { "size": "Small", "price": 250 },
+
+            { "size": "Medium", "price": 400 },
+
+            { "size": "Large", "price": 550 }
+          ]
+        },
+
+        {
+          "name": "Paneer Tikka",
+
+          "description": "Paneer Tikka + Sashlik + Mint Sauce + Coriander",
+
+          "veg": true,
+
+          "options": [
+            { "size": "Small", "price": 250 },
+
+            { "size": "Medium", "price": 400 },
+
+            { "size": "Large", "price": 550 }
+          ]
+        },
+
+        {
+          "name": "Mushroom Tikka",
+
+          "description": "Mushroom + Sashlik + Mint Sauce + Green Chillies + Coriander",
+
+          "veg": true,
+
+          "options": [
+            { "size": "Small", "price": 250 },
+
+            { "size": "Medium", "price": 400 },
+
+            { "size": "Large", "price": 550 }
+          ]
+        },
+
+        {
+          "name": "Wood Cutter",
+
+          "description": "Spinach + Onion + Mushroom + Basil",
+
+          "veg": true,
+
+          "options": [
+            { "size": "Small", "price": 250 },
+
+            { "size": "Medium", "price": 400 },
+
+            { "size": "Large", "price": 550 }
+          ]
+        },
+
+        {
+          "name": "Sorriso Vegetarian",
+
+          "description": "Garlic + American Corn + Capsicum + Tomato + Organo",
+
+          "veg": true,
+
+          "options": [
+            { "size": "Small", "price": 250 },
+
+            { "size": "Medium", "price": 400 },
+
+            { "size": "Large", "price": 550 }
+          ]
+        },
+
+        {
+          "name": "Crisp N Lite",
+
+          "description": "Chopped Onion + Capsicum + Tomatoes + Green Chillies",
+
+          "veg": true,
+
+          "options": [
+            { "size": "Small", "price": 250 },
+
+            { "size": "Medium", "price": 400 },
+
+            { "size": "Large", "price": 550 }
+          ]
+        },
+
+        {
+          "name": "Chilly Paneer",
+
+          "description": "Paneer + Capsicum + Onion + Green Chillies",
+
+          "veg": true,
+
+          "options": [
+            { "size": "Small", "price": 250 },
+
+            { "size": "Medium", "price": 400 },
+
+            { "size": "Large", "price": 550 }
+          ]
+        },
+
+        {
+          "name": "Chillies Cooked in Chinese Style",
+
+          "description": "Sesame Seed",
+
+          "veg": true,
+
+          "options": [
+            { "size": "Small", "price": 250 },
+
+            { "size": "Medium", "price": 400 },
+
+            { "size": "Large", "price": 550 }
+          ]
+        },
+
+        {
+          "name": "Sorriso Special Paneer Pizza",
+
+          "description": "Paneer Cubes Marinated",
+
+          "veg": true,
+
+          "options": [
+            { "size": "Small", "price": 250 },
+
+            { "size": "Medium", "price": 400 },
+
+            { "size": "Large", "price": 550 }
+          ]
+        },
+
+        {
+          "name": "Spicy Chutney",
+
+          "description": "Red Paprika",
+
+          "veg": true,
+
+          "options": [
+            { "size": "Small", "price": 250 },
+
+            { "size": "Medium", "price": 400 },
+
+            { "size": "Large", "price": 550 }
+          ]
+        },
+
+        {
+          "name": "Schezwan Veg",
+
+          "description": "Baby Corn + Capsicum + Onion + Spring Onion + Hot Schezwan Sauce",
+
+          "veg": true,
+
+          "options": [
+            { "size": "Small", "price": 250 },
+
+            { "size": "Medium", "price": 400 },
+
+            { "size": "Large", "price": 550 }
+          ]
+        },
+
+        {
+          "name": "Sorriso Five",
+
+          "description": "Red + Yellow + Green Capsicum + Jalapeno + Red Paprika",
+
+          "veg": true,
+
+          "options": [
+            { "size": "Small", "price": 300 },
+
+            { "size": "Medium", "price": 450 },
+
+            { "size": "Large", "price": 600 }
+          ]
+        },
+
+        {
+          "name": "Sorriso Special Farm House",
+
+          "description": "",
+
+          "veg": true,
+
+          "options": [
+            { "size": "Small", "price": 300 },
+
+            { "size": "Medium", "price": 450 },
+
+            { "size": "Large", "price": 600 }
           ]
         }
       ]
